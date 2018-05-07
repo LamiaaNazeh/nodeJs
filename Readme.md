@@ -1,5 +1,3 @@
-<snippet>
-  <content><![CDATA[
 # ${1:Cafeteria Project}
 A NodeJS project
 ## Team members
@@ -9,6 +7,4 @@ A NodeJS project
 4. [Yasmeenn Shalaby](https://github.com/yasmeeen16)
 ## Description
 It is a software to handle requests in a cafeteria using ``NodeJS`` and ``BootStrap`` and ``MongoDB``
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
