@@ -1,4 +1,4 @@
-snippet>
+<snippet>
   <content><![CDATA[
 # ${1:Cafeteria Project}
 A NodeJS project
