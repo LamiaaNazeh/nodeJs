@@ -1,4 +1,4 @@
-# ${1:Cafeteria Project}
+# Cafeteria Project
 A NodeJS project
 ## Team members
 1. [Lamiaa Nazeh](https://github.com/LamiaaNazeh)
@@ -7,4 +7,3 @@ A NodeJS project
 4. [Yasmeenn Shalaby](https://github.com/yasmeeen16)
 ## Description
 It is a software to handle requests in a cafeteria using ``NodeJS`` and ``BootStrap`` and ``MongoDB``
-
